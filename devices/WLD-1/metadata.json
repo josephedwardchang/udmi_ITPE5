@@ -1,25 +1,24 @@
 {
   "pointset": {
     "points": {
-      "filter_alarm_pressure_status": {
+      "water_leak_alarm": {
         "units": "No-units",
-        "ref": "BV11.present_value"
+        "ref": "WLD-1.LeakAlarm.present_value"
       },
-      "filter_differential_pressure_sensor": {
-        "units": "Degrees-Celsius",
-        "ref": "AV12.present_value"
+      "broken_cable_alarm": {
+        "units": "No-units",
+        "ref": "WLD-1.BrokenCableAlarm.present_value"
       },
-      "filter_differential_pressure_setpoint": {
-        "units": "Bars",
-        "writeable": true,
-        "baseline_value": 98
+      "leak_distance": {
+        "units": "Meters",
+        "ref": "WLD-1.LeakDistance.present_value"
       }
     }
   },
   "system": {
     "location": {
-      "site": "ZZ-TRI-FECTA",
-      "section": "2-3N8C",
+      "site": "PH-CEB-ITPE5",
+      "section": "2",
       "position": {
         "x": 111.0,
         "y": 102.3
@@ -28,8 +27,8 @@
     "physical_tag": {
       "asset": {
         "guid": "drw://TBC",
-        "site": "ZZ-TRI-FECTA",
-        "name": "AHU-1"
+        "site": "PH-CEB-ITPE5",
+        "name": "WLD-1"
       }
     }
   },
@@ -37,6 +36,6 @@
     "auth_type": "RS256"
   },
   "version": 1,
-  "timestamp": "2020-05-01T13:39:07Z",
+  "timestamp": "2021-09-22T13:39:07Z",
   "hash": "181301c3"
 }
