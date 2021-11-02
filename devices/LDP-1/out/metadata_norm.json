@@ -1,0 +1,41 @@
+{
+  "timestamp": "2021-10-28T13:15:33Z",
+  "version": 1,
+  "hash": "c08d40ac",
+  "cloud": {
+    "auth_type": "RS256_X509"
+  },
+  "system": {
+    "location": {
+      "site": "PH-CEB-ITPE5",
+      "section": "2",
+      "position": {
+        "x": 111.0,
+        "y": 102.3
+      }
+    },
+    "physical_tag": {
+      "asset": {
+        "guid": "drw://TBC",
+        "site": "PH-CEB-ITPE5",
+        "name": "LDP-1"
+      }
+    }
+  },
+  "pointset": {
+    "points": {
+      "broken_cable_alarm": {
+        "units": "No-units",
+        "ref": "points.broken_cable_alarm.present_value"
+      },
+      "water_cable_extant_flow_sensor": {
+        "units": "Meters",
+        "ref": "points.water_cable_extant_flow_sensor.present_value"
+      },
+      "water_leak_detection_alarm": {
+        "units": "No-units",
+        "ref": "points.water_leak_detection_alarm.present_value"
+      }
+    }
+  }
+}
