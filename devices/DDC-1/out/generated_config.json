@@ -1,12 +1,12 @@
 {
-  "timestamp" : "2021-10-28T13:15:33Z",
+  "timestamp" : "2021-11-26T13:26:10Z",
   "pointset" : {
     "points" : {
       "broken_cable_alarm" : {
         "ref" : "points.broken_cable_alarm.present_value"
       },
-      "water_cable_extant_flow_sensor" : {
-        "ref" : "points.water_cable_extant_flow_sensor.present_value"
+      "water_leak_cable_distance_sensor" : {
+        "ref" : "points.water_leak_cable_distance_sensor.present_value"
       },
       "water_leak_detection_alarm" : {
         "ref" : "points.water_leak_detection_alarm.present_value"

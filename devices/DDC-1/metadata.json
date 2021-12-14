@@ -9,16 +9,20 @@
         "units": "No-units",
         "ref": "points.broken_cable_alarm.present_value"
       },
-      "water_cable_extant_flow_sensor": {
-        "units": "Meters",
-        "ref": "points.water_cable_extant_flow_sensor.present_value"
-      }
+      "water_leak_cable_distance_sensor": {
+        "units": "meter",
+        "ref": "points.water_leak_cable_distance_sensor.present_value"
+      },
+	  "zone_air_co2_concentration_sensor": {
+        "units": "ppm",
+        "ref": "points.zone_air_co2_concentration_sensor.present_value"
+	  }
     }
   },
   "system": {
     "location": {
       "site": "PH-CEB-ITPE5",
-      "section": "2",
+      "section": "3",
       "position": {
         "x": 111.0,
         "y": 102.3
@@ -28,7 +32,7 @@
       "asset": {
         "guid": "drw://TBC",
         "site": "PH-CEB-ITPE5",
-        "name": "LDP-1"
+        "name": "DDC-1"
       }
     }
   },
@@ -36,6 +40,6 @@
     "auth_type": "RS256_X509"
   },
   "version": 1,
-  "timestamp": "2021-10-28T14:54:07Z",
-  "hash": "181301c3"
+  "timestamp": "2021-11-26T00:24:08Z",
+  "hash": "181301c5"
 }
