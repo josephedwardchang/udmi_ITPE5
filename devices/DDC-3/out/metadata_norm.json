@@ -1,7 +1,7 @@
 {
   "timestamp": "2022-02-22T04:08:57Z",
   "version": 1,
-  "hash": "baebcfd5",
+  "hash": "49a4c625",
   "cloud": {
     "auth_type": "RS256_X509"
   },
@@ -16,9 +16,9 @@
     },
     "physical_tag": {
       "asset": {
-        "guid": "292c43b4-da8d-4783-84d4-1dad09271f82",
+        "guid": "47ac3790-7c8d-439b-8091-bba37007bfcd",
         "site": "PH-CEB-ITPE5",
-        "name": "DDC-1"
+        "name": "DDC-3"
       }
     }
   },

@@ -1,0 +1,213 @@
+{
+  "pointset": {
+    "points": {
+      "water_leak_detection_alarm": {
+        "units": "No-units",
+        "ref": "points.water_leak_detection_alarm.present_value"
+      },
+      "broken_cable_alarm": {
+        "units": "No-units",
+        "ref": "points.broken_cable_alarm.present_value"
+      },
+      "water_leak_cable_distance_sensor": {
+        "units": "m",
+        "ref": "points.water_leak_cable_distance_sensor.present_value"
+      },
+      "zone_air_co2_concentration_sensor_1": {
+        "units": "ppm",
+        "ref": "points.zone_air_co2_concentration_sensor_1.present_value"
+      },
+      "zone_air_co2_concentration_sensor_2": {
+        "units": "ppm",
+        "ref": "points.zone_air_co2_concentration_sensor_2.present_value"
+      },
+      "zone_air_co2_concentration_sensor_3": {
+        "units": "ppm",
+        "ref": "points.zone_air_co2_concentration_sensor_3.present_value"
+      },
+      "zone_air_co2_concentration_sensor_4": {
+        "units": "ppm",
+        "ref": "points.zone_air_co2_concentration_sensor_4.present_value"
+      },
+      "zone_air_co2_concentration_sensor_5": {
+        "units": "ppm",
+        "ref": "points.zone_air_co2_concentration_sensor_5.present_value"
+      },
+      "zone_air_co2_concentration_sensor_6": {
+        "units": "ppm",
+        "ref": "points.zone_air_co2_concentration_sensor_6.present_value"
+      },
+      "zone_air_temperature_sensor": {
+        "units": "degC",
+        "ref": "points.zone_air_temperature_sensor.present_value"
+      },
+      "zone_air_relative_humidity_sensor": {
+        "units": "%",
+        "ref": "points.zone_air_relative_humidity_sensor.present_value"
+      },
+      "supply_air_flowrate_status_1": {
+        "units": "No-units",
+        "ref": "points.supply_air_flowrate_status_1.present_value"
+      },
+      "supply_air_flowrate_status_2": {
+        "units": "No-units",
+        "ref": "points.supply_air_flowrate_status_2.present_value"
+      },
+      "supply_air_flowrate_status_3": {
+        "units": "No-units",
+        "ref": "points.supply_air_flowrate_status_3.present_value"
+      },
+      "supply_air_damper_command_1": {
+        "units": "No-units",
+        "ref": "points.supply_air_damper_command_1.present_value"
+      },
+      "supply_air_damper_status_1": {
+        "units": "No-units",
+        "ref": "points.supply_air_damper_status_1.present_value"
+      },
+      "zone_air_co2_concentration_setpoint_1": {
+        "units": "meter",
+        "ref": "points.zone_air_co2_concentration_setpoint_1.present_value"
+      },
+      "schedule_run_command_1": {
+        "units": "No-units",
+        "ref": "points.schedule_run_command_1.present_value"
+      },
+      "low_limit_supply_air_flowrate_setpoint_1": {
+        "units": "l/s",
+        "ref": "points.low_limit_supply_air_flowrate_setpoint_1.present_value"
+      },
+      "high_limit_supply_air_flowrate_setpoint_1": {
+        "units": "l/s",
+        "ref": "points.high_limit_supply_air_flowrate_setpoint_1.present_value"
+      },
+      "supply_air_flowrate_sensor_1": {
+        "units": "l/s",
+        "ref": "points.supply_air_flowrate_sensor_1.present_value"
+      },
+      "supply_air_damper_command_2": {
+        "units": "No-units",
+        "ref": "points.supply_air_damper_command_2.present_value"
+      },
+      "supply_air_damper_status_2": {
+        "units": "No-units",
+        "ref": "points.supply_air_damper_status_2.present_value"
+      },
+      "zone_air_co2_concentration_setpoint_2": {
+        "units": "meter",
+        "ref": "points.zone_air_co2_concentration_setpoint_2.present_value"
+      },
+      "schedule_run_command_2": {
+        "units": "No-units",
+        "ref": "points.schedule_run_command_2.present_value"
+      },
+      "low_limit_supply_air_flowrate_setpoint_2": {
+        "units": "l/s",
+        "ref": "points.low_limit_supply_air_flowrate_setpoint_2.present_value"
+      },
+      "high_limit_supply_air_flowrate_setpoint_2": {
+        "units": "l/s",
+        "ref": "points.high_limit_supply_air_flowrate_setpoint_2.present_value"
+      },
+      "supply_air_flowrate_sensor_2": {
+        "units": "l/s",
+        "ref": "points.supply_air_flowrate_sensor_2.present_value"
+      },
+      "supply_air_damper_command_3": {
+        "units": "No-units",
+        "ref": "points.supply_air_damper_command_3.present_value"
+      },
+      "supply_air_damper_status_3": {
+        "units": "No-units",
+        "ref": "points.supply_air_damper_status_3.present_value"
+      },
+      "zone_air_co2_concentration_setpoint_3": {
+        "units": "meter",
+        "ref": "points.zone_air_co2_concentration_setpoint_3.present_value"
+      },
+      "schedule_run_command_3": {
+        "units": "No-units",
+        "ref": "points.schedule_run_command_3.present_value"
+      },
+      "low_limit_supply_air_flowrate_setpoint_3": {
+        "units": "l/s",
+        "ref": "points.low_limit_supply_air_flowrate_setpoint_3.present_value"
+      },
+      "high_limit_supply_air_flowrate_setpoint_3": {
+        "units": "l/s",
+        "ref": "points.high_limit_supply_air_flowrate_setpoint_3.present_value"
+      },
+      "supply_air_flowrate_sensor_3": {
+        "units": "l/s",
+        "ref": "points.supply_air_flowrate_sensor_3.present_value"
+      },
+      "supply_air_damper_command_4": {
+        "units": "No-units",
+        "ref": "points.supply_air_damper_command_4.present_value"
+      },
+      "supply_air_damper_status_4": {
+        "units": "No-units",
+        "ref": "points.supply_air_damper_status_4.present_value"
+      },
+      "zone_air_co2_concentration_setpoint_4": {
+        "units": "meter",
+        "ref": "points.zone_air_co2_concentration_setpoint_4.present_value"
+      },
+      "schedule_run_command_4": {
+        "units": "No-units",
+        "ref": "points.schedule_run_command_4.present_value"
+      },
+      "low_limit_supply_air_flowrate_setpoint_4": {
+        "units": "l/s",
+        "ref": "points.low_limit_supply_air_flowrate_setpoint_4.present_value"
+      },
+      "high_limit_supply_air_flowrate_setpoint_4": {
+        "units": "l/s",
+        "ref": "points.high_limit_supply_air_flowrate_setpoint_4.present_value"
+      },
+      "supply_air_flowrate_sensor_4": {
+        "units": "l/s",
+        "ref": "points.supply_air_flowrate_sensor_4.present_value"
+      },
+      "fire_alarm": {
+        "units": "No-units",
+        "ref": "points.fire_alarm.present_value"
+      },
+      "supervisor_alarm": {
+        "units": "No-units",
+        "ref": "points.supervisor_alarm.present_value"
+      },
+      "water_flowrate_status": {
+        "units": "No-units",
+        "ref": "points.water_flowrate_status.present_value"
+      },
+      "air_pressure_status": {
+        "units": "No-units",
+        "ref": "points.air_pressure_status.present_value"
+      }
+    }
+  },
+  "system": {
+    "location": {
+      "site": "PH-CEB-ITPE5",
+      "section": "3",
+      "position": {
+        "x": 111.0,
+        "y": 102.3
+      }
+    },
+    "physical_tag": {
+      "asset": {
+        "guid": "c231b67c-eea8-48b2-baa2-e0e3429d4ad5",
+        "site": "PH-CEB-ITPE5",
+        "name": "DDC-5"
+      }
+    }
+  },
+  "cloud": {
+    "auth_type": "RS256_X509"
+  },
+  "version": 1,
+  "timestamp": "2022-01-26T01:23:08Z",
+  "hash": "181301c5"
+}

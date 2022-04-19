@@ -1,0 +1,469 @@
+{
+  "pointset": {
+    "points": {
+      "supply_water_valve_command_1": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_command_1.present_value"
+	  },
+      "supply_water_valve_status_1": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_status_1.present_value"
+	  },
+      "supply_water_valve_command_2": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_command_2.present_value"
+	  },
+      "supply_water_valve_status_2": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_status_2.present_value"
+	  },
+      "supply_water_valve_command_3": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_command_3.present_value"
+	  },
+      "supply_water_valve_status_3": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_status_3.present_value"
+	  },
+      "supply_water_valve_command_4": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_command_4.present_value"
+	  },
+      "supply_water_valve_status_4": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_status_4.present_value"
+	  },
+      "supply_water_valve_command_5": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_command_5.present_value"
+	  },
+      "supply_water_valve_status_5": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_status_5.present_value"
+	  },
+      "supply_water_valve_command_6": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_command_6.present_value"
+	  },
+      "supply_water_valve_status_6": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_status_6.present_value"
+	  },
+      "supply_water_valve_command_7": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_command_7.present_value"
+	  },
+      "supply_water_valve_status_7": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_status_7.present_value"
+	  },
+      "supply_water_valve_command_8": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_command_8.present_value"
+	  },
+      "supply_water_valve_status_8": {
+	    "units": "No-units",
+	    "ref": "points.supply_water_valve_status_8.present_value"
+	  },
+      "run_status": {
+	    "units": "No-units",
+	    "ref": "points.run_status.present_value"
+	  },
+      "run_command": {
+	    "units": "No-units",
+	    "ref": "points.run_command.present_value"
+	  },
+      "exhaust_fan_speed_percentage_sensor": {
+	    "units": "%",
+	    "ref": "points.exhaust_fan_speed_percentage_sensor.present_value"
+	  },
+      "lost_power_alarm_1": {
+	    "units": "No-units",
+	    "ref": "points.lost_power_alarm_1.present_value"
+	  },
+      "schedule_run_command": {
+	    "units": "No-units",
+	    "ref": "points.schedule_run_command.present_value"
+	  },
+      "power_sensor_1": {
+	    "units": "kW",
+	    "ref": "points.power_sensor_1.present_value"
+	  },
+      "apparent_power_sensor_1": {
+	    "units": "kVA",
+	    "ref": "points.apparent_power_sensor_1.present_value"
+	  },
+      "reactive_power_sensor_1": {
+	    "units": "kVAR",
+	    "ref": "points.reactive_power_sensor_1.present_value"
+	  },
+      "phase1_line_current_sensor_1": {
+	    "units": "A",
+	    "ref": "points.phase1_line_current_sensor_1.present_value"
+	  },
+      "phase2_line_current_sensor_1": {
+	    "units": "A",
+	    "ref": "points.phase2_line_current_sensor_1.present_value"
+	  },
+      "phase3_line_current_sensor_1": {
+	    "units": "A",
+	    "ref": "points.phase3_line_current_sensor_1.present_value"
+	  },
+      "phase1_phase2_line_voltage_sensor_1": {
+	    "units": "V",
+	    "ref": "points.phase1_phase2_line_voltage_sensor_1.present_value"
+	  },
+      "phase1_phase3_line_voltage_sensor_1": {
+	    "units": "V",
+	    "ref": "points.phase1_phase3_line_voltage_sensor_1.present_value"
+	  },
+      "phase2_phase3_line_voltage_sensor_1": {
+	    "units": "V",
+	    "ref": "points.phase2_phase3_line_voltage_sensor_1.present_value"
+	  },
+      "powerfactor_sensor_1": {
+	    "units": "No-units",
+	    "ref": "points.powerfactor_sensor_1.present_value"
+	  },
+	  "line_frequency_sensor_1": {
+	    "units": "Hz",
+	    "ref": "points.line_frequency_sensor_1.present_value"
+	  },
+      "energy_accumulator_1": {
+	    "units": "kWh",
+	    "ref": "points.energy_accumulator_1.present_value"
+	  },
+      "apparent_energy_accumulator_1": {
+	    "units": "kVAh",
+	    "ref": "points.apparent_energy_accumulator_1.present_value"
+	  },
+      "reactive_energy_accumulator_1": {
+	    "units": "kVARh",
+	    "ref": "points.reactive_energy_accumulator_1.present_value"
+	  },
+      "power_sensor_2": {
+	    "units": "kW",
+	    "ref": "points.power_sensor_2.present_value"
+	  },
+      "apparent_power_sensor_2": {
+	    "units": "kVA",
+	    "ref": "points.apparent_power_sensor_2.present_value"
+	  },
+      "reactive_power_sensor_2": {
+	    "units": "kVAR",
+	    "ref": "points.reactive_power_sensor_2.present_value"
+	  },
+      "phase1_line_current_sensor_2": {
+	    "units": "A",
+	    "ref": "points.phase1_line_current_sensor_2.present_value"
+	  },
+      "phase2_line_current_sensor_2": {
+	    "units": "A",
+	    "ref": "points.phase2_line_current_sensor_2.present_value"
+	  },
+      "phase3_line_current_sensor_2": {
+	    "units": "A",
+	    "ref": "points.phase3_line_current_sensor_2.present_value"
+	  },
+      "phase1_phase2_line_voltage_sensor_2": {
+	    "units": "V",
+	    "ref": "points.phase1_phase2_line_voltage_sensor_2.present_value"
+	  },
+      "phase1_phase3_line_voltage_sensor_2": {
+	    "units": "V",
+	    "ref": "points.phase1_phase3_line_voltage_sensor_2.present_value"
+	  },
+      "phase2_phase3_line_voltage_sensor_2": {
+	    "units": "V",
+	    "ref": "points.phase2_phase3_line_voltage_sensor_2.present_value"
+	  },
+      "powerfactor_sensor_2": {
+	    "units": "No-units",
+	    "ref": "points.powerfactor_sensor_2.present_value"
+	  },
+	  "line_frequency_sensor_2": {
+	    "units": "Hz",
+	    "ref": "points.line_frequency_sensor_2.present_value"
+	  },
+      "energy_accumulator_2": {
+	    "units": "kWh",
+	    "ref": "points.energy_accumulator_2.present_value"
+	  },
+      "apparent_energy_accumulator_2": {
+	    "units": "kVAh",
+	    "ref": "points.apparent_energy_accumulator_2.present_value"
+	  },
+      "reactive_energy_accumulator_2": {
+	    "units": "kVARh",
+	    "ref": "points.reactive_energy_accumulator_2.present_value"
+	  },
+      "power_sensor_3": {
+	    "units": "kW",
+	    "ref": "points.power_sensor_3.present_value"
+	  },
+      "apparent_power_sensor_3": {
+	    "units": "kVA",
+	    "ref": "points.apparent_power_sensor_3.present_value"
+	  },
+      "reactive_power_sensor_3": {
+	    "units": "kVAR",
+	    "ref": "points.reactive_power_sensor_3.present_value"
+	  },
+      "phase1_line_current_sensor_3": {
+	    "units": "A",
+	    "ref": "points.phase1_line_current_sensor_3.present_value"
+	  },
+      "phase2_line_current_sensor_3": {
+	    "units": "A",
+	    "ref": "points.phase2_line_current_sensor_3.present_value"
+	  },
+      "phase3_line_current_sensor_3": {
+	    "units": "A",
+	    "ref": "points.phase3_line_current_sensor_3.present_value"
+	  },
+      "phase1_phase2_line_voltage_sensor_3": {
+	    "units": "V",
+	    "ref": "points.phase1_phase2_line_voltage_sensor_3.present_value"
+	  },
+      "phase1_phase3_line_voltage_sensor_3": {
+	    "units": "V",
+	    "ref": "points.phase1_phase3_line_voltage_sensor_3.present_value"
+	  },
+      "phase2_phase3_line_voltage_sensor_3": {
+	    "units": "V",
+	    "ref": "points.phase2_phase3_line_voltage_sensor_3.present_value"
+	  },
+      "powerfactor_sensor_3": {
+	    "units": "No-units",
+	    "ref": "points.powerfactor_sensor_3.present_value"
+	  },	
+	  "line_frequency_sensor_3": {
+	    "units": "Hz",
+	    "ref": "points.line_frequency_sensor_3.present_value"
+	  },
+      "energy_accumulator_3": {
+	    "units": "kWh",
+	    "ref": "points.energy_accumulator_3.present_value"
+	  },
+      "apparent_energy_accumulator_3": {
+	    "units": "kVAh",
+	    "ref": "points.apparent_energy_accumulator_3.present_value"
+	  },
+      "reactive_energy_accumulator_3": {
+	    "units": "kVARh",
+	    "ref": "points.reactive_energy_accumulator_3.present_value"
+	  },
+      "power_sensor_4": {
+	    "units": "kW",
+	    "ref": "points.power_sensor_4.present_value"
+	  },
+      "apparent_power_sensor_4": {
+	    "units": "kVA",
+	    "ref": "points.apparent_power_sensor_4.present_value"
+	  },
+      "reactive_power_sensor_4": {
+	    "units": "kVAR",
+	    "ref": "points.reactive_power_sensor_4.present_value"
+	  },
+      "phase1_line_current_sensor_4": {
+	    "units": "A",
+	    "ref": "points.phase1_line_current_sensor_4.present_value"
+	  },
+      "phase2_line_current_sensor_4": {
+	    "units": "A",
+	    "ref": "points.phase2_line_current_sensor_4.present_value"
+	  },
+      "phase3_line_current_sensor_4": {
+	    "units": "A",
+	    "ref": "points.phase3_line_current_sensor_4.present_value"
+	  },
+      "phase1_phase2_line_voltage_sensor_4": {
+	    "units": "V",
+	    "ref": "points.phase1_phase2_line_voltage_sensor_4.present_value"
+	  },
+      "phase1_phase3_line_voltage_sensor_4": {
+	    "units": "V",
+	    "ref": "points.phase1_phase3_line_voltage_sensor_4.present_value"
+	  },
+      "phase2_phase3_line_voltage_sensor_4": {
+	    "units": "V",
+	    "ref": "points.phase2_phase3_line_voltage_sensor_4.present_value"
+	  },
+      "powerfactor_sensor_4": {
+	    "units": "No-units",
+	    "ref": "points.powerfactor_sensor_4.present_value"
+	  },	
+	  "line_frequency_sensor_4": {
+	    "units": "Hz",
+	    "ref": "points.line_frequency_sensor_4.present_value"
+	  },
+      "energy_accumulator_4": {
+	    "units": "kWh",
+	    "ref": "points.energy_accumulator_4.present_value"
+	  },
+      "apparent_energy_accumulator_4": {
+	    "units": "kVAh",
+	    "ref": "points.apparent_energy_accumulator_4.present_value"
+	  },
+      "reactive_energy_accumulator_4": {
+	    "units": "kVARh",
+	    "ref": "points.reactive_energy_accumulator_4.present_value"
+	  },
+      "power_sensor_5": {
+	    "units": "kW",
+	    "ref": "points.power_sensor_5.present_value"
+	  },
+      "apparent_power_sensor_5": {
+	    "units": "kVA",
+	    "ref": "points.apparent_power_sensor_5.present_value"
+	  },
+      "reactive_power_sensor_5": {
+	    "units": "kVAR",
+	    "ref": "points.reactive_power_sensor_5.present_value"
+	  },
+      "phase1_line_current_sensor_5": {
+	    "units": "A",
+	    "ref": "points.phase1_line_current_sensor_5.present_value"
+	  },
+      "phase2_line_current_sensor_5": {
+	    "units": "A",
+	    "ref": "points.phase2_line_current_sensor_5.present_value"
+	  },
+      "phase3_line_current_sensor_5": {
+	    "units": "A",
+	    "ref": "points.phase3_line_current_sensor_5.present_value"
+	  },
+      "phase1_phase2_line_voltage_sensor_5": {
+	    "units": "V",
+	    "ref": "points.phase1_phase2_line_voltage_sensor_5.present_value"
+	  },
+      "phase1_phase3_line_voltage_sensor_5": {
+	    "units": "V",
+	    "ref": "points.phase1_phase3_line_voltage_sensor_5.present_value"
+	  },
+      "phase2_phase3_line_voltage_sensor_5": {
+	    "units": "V",
+	    "ref": "points.phase2_phase3_line_voltage_sensor_5.present_value"
+	  },
+      "powerfactor_sensor_5": {
+	    "units": "No-units",
+	    "ref": "points.powerfactor_sensor_5.present_value"
+	  },	
+	  "line_frequency_sensor_5": {
+	    "units": "Hz",
+	    "ref": "points.line_frequency_sensor_5.present_value"
+	  },
+      "energy_accumulator_5": {
+	    "units": "kWh",
+	    "ref": "points.energy_accumulator_5.present_value"
+	  },
+      "apparent_energy_accumulator_5": {
+	    "units": "kVAh",
+	    "ref": "points.apparent_energy_accumulator_5.present_value"
+	  },
+      "reactive_energy_accumulator_5": {
+	    "units": "kVARh",
+	    "ref": "points.reactive_energy_accumulator_5.present_value"
+	  },
+      "power_sensor_6": {
+	    "units": "kW",
+	    "ref": "points.power_sensor_6.present_value"
+	  },
+      "apparent_power_sensor_6": {
+	    "units": "kVA",
+	    "ref": "points.apparent_power_sensor_6.present_value"
+	  },
+      "reactive_power_sensor_6": {
+	    "units": "kVAR",
+	    "ref": "points.reactive_power_sensor_6.present_value"
+	  },
+      "phase1_line_current_sensor_6": {
+	    "units": "A",
+	    "ref": "points.phase1_line_current_sensor_6.present_value"
+	  },
+      "phase2_line_current_sensor_6": {
+	    "units": "A",
+	    "ref": "points.phase2_line_current_sensor_6.present_value"
+	  },
+      "phase3_line_current_sensor_6": {
+	    "units": "A",
+	    "ref": "points.phase3_line_current_sensor_6.present_value"
+	  },
+      "phase1_phase2_line_voltage_sensor_6": {
+	    "units": "V",
+	    "ref": "points.phase1_phase2_line_voltage_sensor_6.present_value"
+	  },
+      "phase1_phase3_line_voltage_sensor_6": {
+	    "units": "V",
+	    "ref": "points.phase1_phase3_line_voltage_sensor_6.present_value"
+	  },
+      "phase2_phase3_line_voltage_sensor_6": {
+	    "units": "V",
+	    "ref": "points.phase2_phase3_line_voltage_sensor_6.present_value"
+	  },
+      "powerfactor_sensor_6": {
+	    "units": "No-units",
+	    "ref": "points.powerfactor_sensor_6.present_value"
+	  },	
+	  "line_frequency_sensor_6": {
+	    "units": "Hz",
+	    "ref": "points.line_frequency_sensor_6.present_value"
+	  },
+      "energy_accumulator_6": {
+	    "units": "kWh",
+	    "ref": "points.energy_accumulator_6.present_value"
+	  },
+      "apparent_energy_accumulator_6": {
+	    "units": "kVAh",
+	    "ref": "points.apparent_energy_accumulator_6.present_value"
+	  },
+      "reactive_energy_accumulator_6": {
+	    "units": "kVARh",
+	    "ref": "points.reactive_energy_accumulator_6.present_value"
+	  },
+      "water_volume_accumulator": {
+	    "units": "m^3",
+	    "ref": "points.water_volume_accumulator.present_value"
+	  },
+      "water_flowrate_sensor": {
+	    "units": "m^3/s",
+	    "ref": "points.water_flowrate_sensor.present_value"
+	  },
+      "emergency_alarm": {
+	    "units": "No-units",
+	    "ref": "points.emergency_alarm.present_value"
+	  },
+      "water_heating_status_1": {
+	    "units": "No-units",
+	    "ref": "points.water_heating_status_1.present_value"
+	  },
+      "water_heating_status_2": {
+	    "units": "No-units",
+	    "ref": "points.water_heating_status_2.present_value"
+	  }
+    }
+  },
+  "system": {
+    "location": {
+      "site": "PH-CEB-ITPE5",
+      "section": "3",
+      "position": {
+        "x": 111.0,
+        "y": 102.3
+      }
+    },
+    "physical_tag": {
+      "asset": {
+        "guid": "e925734a-7ebf-40c4-802e-c17c8e08ff31",
+        "site": "PH-CEB-ITPE5",
+        "name": "DDC-9"
+      }
+    }
+  },
+  "cloud": {
+    "auth_type": "RS256_X509"
+  },
+  "version": 1,
+  "timestamp": "2022-01-26T01:23:08Z",
+  "hash": "181301c5"
+}

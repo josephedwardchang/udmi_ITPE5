@@ -1,0 +1,52 @@
+{
+  "timestamp": "2022-03-15T02:40:17Z",
+  "version": 1,
+  "hash": "1f2ead79",
+  "cloud": {
+    "auth_type": "RS256_X509"
+  },
+  "system": {
+    "location": {
+      "site": "PH-CEB-ITPE5",
+      "section": "3",
+      "position": {
+        "x": 111.0,
+        "y": 102.3
+      }
+    },
+    "physical_tag": {
+      "asset": {
+        "guid": "a6482a4d-5e32-4b89-b798-f6f52cf72d2a",
+        "site": "PH-CEB-ITPE5",
+        "name": "DDC-4"
+      }
+    }
+  },
+  "pointset": {
+    "points": {
+      "exhaust_fan_speed_percentage_command": { },
+      "failed_alarm": { },
+      "run_command": { },
+      "run_status": { },
+      "schedule_run_command": { },
+      "supply_water_valve_command_1": { },
+      "supply_water_valve_command_2": { },
+      "supply_water_valve_command_3": { },
+      "supply_water_valve_command_4": { },
+      "supply_water_valve_command_5": { },
+      "supply_water_valve_command_6": { },
+      "supply_water_valve_command_7": { },
+      "supply_water_valve_command_8": { },
+      "supply_water_valve_status_1": { },
+      "supply_water_valve_status_2": { },
+      "supply_water_valve_status_3": { },
+      "supply_water_valve_status_4": { },
+      "supply_water_valve_status_5": { },
+      "supply_water_valve_status_6": { },
+      "supply_water_valve_status_7": { },
+      "supply_water_valve_status_8": { },
+      "zone_air_relative_humidity_sensor": { },
+      "zone_air_temperature_sensor": { }
+    }
+  }
+}
